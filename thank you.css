@@ -1,0 +1,65 @@
+body{
+     background-image: url(nature\ bg.jpg);
+     width: 300px;
+     height: 200px;
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     color: aliceblue;
+     overflow: hidden;
+}
+
+
+.div1{
+    display: flex;
+}
+
+.one{
+    width: 400px;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 70px;
+}
+
+.two{
+    margin-top: 30px;
+    padding: 70px;
+}
+.welcome{
+            font-weight: 700;
+            font-style: unset;
+            font-size: 70px;
+            margin-top: 50px;
+}
+.in{
+    padding-left: 130px;
+}
+.btn{
+        background-color: rgb(249, 113, 45);
+        padding: 6px 20px;
+        color: white;
+        border-radius: 5px;
+        font-size: 20px;
+}
+.p{
+    color: rgba(200, 201, 201, 0.91);
+    margin-top: -20px;
+}
+
+.box{
+    width: 350px;
+    height: 25px;
+}
+.by{
+    color: rgba(200, 201, 201, 0.91);
+    padding-left: 50px;
+}
+.terms{
+    color: rgba(200, 201, 201, 0.91);
+    padding-left: 75px;
+    margin-top: -15px;
+}
+span{
+    padding: 8px;
+    font-size: 35px;
+}
